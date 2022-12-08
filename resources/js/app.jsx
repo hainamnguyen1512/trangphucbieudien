@@ -1,5 +1,6 @@
 import './bootstrap';
 import '../css/app.css';
+import 'semantic-ui-css/semantic.min.css';
 
 import { createRoot } from 'react-dom/client';
 import { createInertiaApp } from '@inertiajs/inertia-react';
